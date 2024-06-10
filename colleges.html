@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html class="no-js" lang="zxx">
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <title>Guidance - Spark App Landing Page Template.</title>
+  <meta name="description" content="" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.svg" />
+
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="assets/css/LineIcons.3.0.css" />
+  <link rel="stylesheet" href="assets/css/animate.css" />
+  <link rel="stylesheet" href="assets/css/tiny-slider.css" />
+  <link rel="stylesheet" href="assets/css/glightbox.min.css" />
+  <link rel="stylesheet" href="assets/css/main.css" />
+  <script>
+    const fr = new FileReader();
+    fr.onload = function (e) {
+
+    }
+    fr.readAsBinaryString('data.csv');
+  </script>
+
+</head>
+
+<body>
+  <!--[if lte IE 9]>
+      <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+        your experience and security.
+      </p>
+    <![endif]-->
+
+  <div class="preloader">
+    <div class="preloader-inner">
+      <div class="preloader-icon">
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+  </div>
+
+  <header class="header navbar-area">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-12">
+          <div class="nav-inner">
+            <nav class="navbar navbar-expand-lg">
+              <a class="navbar-brand" href="index.html">
+                <img src="assets/images/logo/white-logo.jpeg" alt="" />
+              </a>
+              <button class="navbar-toggler mobile-menu-btn" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="toggler-icon"></span>
+                <span class="toggler-icon"></span>
+                <span class="toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
+                <ul id="nav" class="navbar-nav ms-auto">
+                  <li class="nav-item">
+                    <a href="index.html" aria-label="Toggle navigation">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="about-us.html" aria-label="Toggle navigation">About</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="dd-menu collapsed" href="javascript:void(0)" data-bs-toggle="collapse"
+                      data-bs-target="#submenu-1-1" aria-controls="navbarSupportedContent" aria-expanded="false"
+                      aria-label="Toggle navigation">Pages</a>
+                    <ul class="sub-menu collapse" id="submenu-1-1">
+                      <li class="nav-item">
+                        <a href="about-us.html">About Us</a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="pricing.html">Our Pricing</a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="signin.html">Sign In</a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="signup.html">Sign Up</a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="reset-password.html">Reset Password</a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="mail-success.html">Mail Success</a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="404.html">404 Error</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="nav-item">
+                    <a class="dd-menu collapsed" href="javascript:void(0)" data-bs-toggle="collapse"
+                      data-bs-target="#submenu-1-2" aria-controls="navbarSupportedContent" aria-expanded="false"
+                      aria-label="Toggle navigation">Blog</a>
+                    <ul class="sub-menu collapse" id="submenu-1-2">
+                      <li class="nav-item">
+                        <a href="blog-grid.html">Blog Grid</a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="blog-single.html">Blog Single</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="nav-item">
+                    <a href="contact.html" class="active" aria-label="Toggle navigation">Contact</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="button">
+                <a href="signup.html" class="btn">Get started</a>
+              </div>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+  <div class="breadcrumbs">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6 offset-lg-3 col-md-12 col-12">
+          <div class="breadcrumbs-content">
+            <h1 class="page-title">College Predictor</h1>
+            <form name="College-predictor">
+              <ul class="my-list">
+                <label for="state" style="margin-top:40px;color:#2ed06e;">Select your state</label>
+                <li><select style="width:260px; 
+                                            border-radius: 7px;
+                                            border:3px solid #2ed06e;
+                                            margin-top:20px;
+                                            height:40px;
+                                            padding:5px;" id="state">
+                    <option value="Andhra Pradesh">Andhra Pradesh</option>
+                    <option value="Andaman and Nicobar Islands">Andaman and Nicobar Islands</option>
+                    <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+                    <option value="Assam">Assam</option>
+                    <option value="Bihar">Bihar</option>
+                    <option value="Chandigarh">Chandigarh</option>
+                    <option value="Chhattisgarh">Chhattisgarh</option>
+                    <option value="Dadar and Nagar Haveli">Dadar and Nagar Haveli</option>
+                    <option value="Daman and Diu">Daman and Diu</option>
+                    <option value="Delhi">Delhi</option>
+                    <option value="Lakshadweep">Lakshadweep</option>
+                    <option value="Puducherry">Puducherry</option>
+                    <option value="Goa">Goa</option>
+                    <option value="Gujarat">Gujarat</option>
+                    <option value="Haryana">Haryana</option>
+                    <option value="Himachal Pradesh">Himachal Pradesh</option>
+                    <option value="Jammu and Kashmir">Jammu and Kashmir</option>
+                    <option value="Jharkhand">Jharkhand</option>
+                    <option value="Karnataka">Karnataka</option>
+                    <option value="Kerala">Kerala</option>
+                    <option value="Madhya Pradesh">Madhya Pradesh</option>
+                    <option value="Maharashtra">Maharashtra</option>
+                    <option value="Manipur">Manipur</option>
+                    <option value="Meghalaya">Meghalaya</option>
+                    <option value="Mizoram">Mizoram</option>
+                    <option value="Nagaland">Nagaland</option>
+                    <option value="Odisha">Odisha</option>
+                    <option value="Punjab">Punjab</option>
+                    <option value="Rajasthan">Rajasthan</option>
+                    <option value="Sikkim">Sikkim</option>
+                    <option value="Tamil Nadu">Tamil Nadu</option>
+                    <option value="Telangana">Telangana</option>
+                    <option value="Tripura">Tripura</option>
+                    <option value="Uttar Pradesh">Uttar Pradesh</option>
+                    <option value="Uttarakhand">Uttarakhand</option>
+                    <option value="West Bengal">West Bengal</option>
+                  </select></li>
+                <label for="city" style="color:#2ed06e;margin-top:20px;">Enter your city</label>
+                <li><input style="width:259px; 
+                                            border-radius: 7px;
+                                            border:3px solid #2ed06e;
+                                            margin-top:20px;
+                                            height:40px;
+                                            padding:5px;" id="marks" type="text"></li>
+                <li>
+                  <div class="button home-btn">
+                    <button style="margin-top:20px;" class="btn" onclick="getstatecity()">Colleges near you</a>
+                  </div>
+
+                </li>
+                <br /><br />
+                <label style="color: white; font-size: 26;" for="res">Colleges LIst</label>
+                <ul name="res" id="res">
+
+                </ul>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+  <footer class="footer section">
+    <div class="footer-top">
+      <div class="container">
+        <div class="inner-content">
+          <div class="row">
+            <div class="col-lg-4 col-md-6 col-12">
+              <div class="single-footer f-about">
+                <div class="logo">
+                  <a href="index.html">
+                    <img src="assets/images/logo/white-logo.jpeg" alt="#" />
+                  </a>
+                </div>
+                <p>
+                  Making the world a better place through constructing elegant
+                  hierarchies.
+                </p>
+                <h4 class="social-title">Follow Us On:</h4>
+                <ul class="social">
+                  <li>
+                    <a href="javascript:void(0)"><i class="lni lni-facebook-filled"></i></a>
+                  </li>
+                  <li>
+                    <a href="javascript:void(0)"><i class="lni lni-instagram"></i></a>
+                  </li>
+                  <li>
+                    <a href="javascript:void(0)"><i class="lni lni-twitter-original"></i></a>
+                  </li>
+                  <li>
+                    <a href="javascript:void(0)"><i class="lni lni-linkedin-original"></i></a>
+                  </li>
+                  <li>
+                    <a href="javascript:void(0)"><i class="lni lni-pinterest"></i></a>
+                  </li>
+                  <li>
+                    <a href="javascript:void(0)"><i class="lni lni-youtube"></i></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-lg-2 col-md-6 col-12">
+              <div class="single-footer f-link">
+                <h3>Solutions</h3>
+                <ul>
+                  <li><a href="javascript:void(0)">Marketing</a></li>
+                  <li><a href="javascript:void(0)">Analytics</a></li>
+                  <li><a href="javascript:void(0)">Commerce</a></li>
+                  <li><a href="javascript:void(0)">Insights</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-lg-2 col-md-6 col-12">
+              <div class="single-footer f-link">
+                <h3>Support</h3>
+                <ul>
+                  <li><a href="javascript:void(0)">Pricing</a></li>
+                  <li><a href="javascript:void(0)">Documentation</a></li>
+                  <li><a href="javascript:void(0)">Guides</a></li>
+                  <li><a href="javascript:void(0)">API Status</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-12">
+              <div class="single-footer newsletter">
+                <h3>Subscribe</h3>
+                <p>Subscribe to our newsletter for the latest updates</p>
+                <form action="#" method="get" target="_blank" class="newsletter-form">
+                  <input name="EMAIL" placeholder="Email address" required="required" type="email" />
+                  <div class="button">
+                    <button class="sub-btn">
+                      <i class="lni lni-envelope"></i>
+                    </button>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="copyright-area">
+      <div class="container">
+        <div class="inner-content">
+          <div class="row">
+            <div class="col-lg-6 col-md-6 col-12">
+              <p class="copyright-text">© 2023 Spark - All Rights Reserved</p>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+              <p class="copyright-owner">
+                Designed and Developed by
+                <a href="https://uideck.com/" rel="nofollow" target="_blank">UIdeck</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <a href="#" class="scroll-top">
+    <i class="lni lni-chevron-up"></i>
+  </a>
+
+  <!-- <script
+        data-cfasync="false"
+        src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"
+      ></script>  -->
+  <script src="assets/js/bootstrap.min.js"></script>
+  <script src="assets/js/wow.min.js"></script>
+  <script src="assets/js/tiny-slider.js"></script>
+  <script src="assets/js/glightbox.min.js"></script>
+  <script src="assets/js/count-up.min.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+
+</html>

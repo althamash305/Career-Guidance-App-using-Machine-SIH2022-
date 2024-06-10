@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html class="no-js" lang="zxx">
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <title>About Us</title>
+  <meta name="description" content="" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="shortcut icon" type="image/x-icon" href="{{ url_for('static', path='assets/images/favicon.svg')}}" />
+
+  <link rel="stylesheet" href="{{ url_for('static', path='assets/css/bootstrap.min.css')}}" />
+  <link rel="stylesheet" href="{{ url_for('static', path='assets/css/LineIcons.3.0.css')}}" />
+  <link rel="stylesheet" href="{{ url_for('static', path='assets/css/animate.css')}}" />
+  <link rel="stylesheet" href="{{ url_for('static', path='assets/css/tiny-slider.css')}}" />
+  <link rel="stylesheet" href="{{ url_for('static', path='assets/css/glightbox.min.css')}}" />
+  <link rel="stylesheet" href="{{ url_for('static', path='assets/css/main.css')}}" />
+</head>
+
+<body>
+  <!--[if lte IE 9]>
+      <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+        your experience and security.
+      </p>
+    <![endif]-->
+
+  <div class="preloader">
+    <div class="preloader-inner">
+      <div class="preloader-icon">
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+  </div>
+
+  <header class="header navbar-area">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-12">
+          <div class="nav-inner">
+            <nav class="navbar navbar-expand-lg">
+              <a class="navbar-brand" href="index.html">
+                <img src="{{ url_for('static', path='assets/images/logo/logo.jpeg')}}" alt="" />
+              </a>
+              <button class="navbar-toggler mobile-menu-btn" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="toggler-icon"></span>
+                <span class="toggler-icon"></span>
+                <span class="toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
+                <ul id="nav" class="navbar-nav ms-auto">
+                  <li class="nav-item">
+                    <a href="index.html" class="active" aria-label="Toggle navigation">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="about-us.html" aria-label="Toggle navigation">About</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="dd-menu collapsed" href="javascript:void(0)" data-bs-toggle="collapse"
+                      data-bs-target="#submenu-1-1" aria-controls="navbarSupportedContent" aria-expanded="false"
+                      aria-label="Toggle navigation">Pages</a>
+                    <ul class="sub-menu collapse" id="submenu-1-1">
+                      <li class="nav-item">
+                        <a href="about-us.html">About Us</a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="pricing.html">Our Pricing</a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="signin.html">Sign In</a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="signup.html">Sign Up</a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="reset-password.html">Reset Password</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="nav-item">
+                    <a class="dd-menu collapsed" href="javascript:void(0)" data-bs-toggle="collapse"
+                      data-bs-target="#submenu-1-2" aria-controls="navbarSupportedContent" aria-expanded="false"
+                      aria-label="Toggle navigation">News</a>
+                    <ul class="sub-menu collapse" id="submenu-1-2">
+                      <li class="nav-item">
+                        <a href="news.html">News Page</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="nav-item">
+                    <a href="contact.html" aria-label="Toggle navigation">Contact</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="button home-btn">
+                <a href="chooseUser.html" class="btn">Try Now</a>
+              </div>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="breadcrumbs">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6 offset-lg-3 col-md-12 col-12">
+          <div class="breadcrumbs-content">
+            <h1 class="page-title">About Us</h1>
+            <ul class="breadcrumb-nav">
+              <li><a href="index.html">Home</a></li>
+              <li>About Us</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <section class="freatures section">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6 col-12">
+          <div class="image wow fadeInLeft" data-wow-delay=".3s">
+            <img src="{{ url_for('static', path='assets/images/features/feature-img.png')}}" alt="#" />
+          </div>
+        </div>
+        <div class="col-lg-6 col-12">
+          <div class="content">
+            <h3 class="heading wow fadeInUp" data-wow-delay=".5s">
+              <span>Core Features</span>Designed & built to give<br />
+              you the best
+            </h3>
+  
+            <div class="single-feature wow fadeInUp" data-wow-delay=".6s">
+              <div class="f-icon">
+                <i class="lni lni-dashboard"></i>
+              </div>
+              <h4>AI/ML Model for Career Guidance</h4>
+              <p>
+                A AI/ML model developed to predict your career
+              </p>
+            </div>
+  
+            <div class="single-feature wow fadeInUp" data-wow-delay=".7s">
+              <div class="f-icon">
+                <i class="lni lni-pencil-alt"></i>
+              </div>
+              <h4>Mentoring</h4>
+              <p>
+                You get to choose the mentor of your choice in order to interact with them
+              </p>
+            </div>
+  
+            <div class="single-feature wow fadeInUp" data-wow-delay="0.8s">
+              <div class="f-icon">
+                <i class="lni lni-vector"></i>
+              </div>
+              <h4>Roadmap</h4>
+              <p>
+                Roadmap
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="testimonials style2 section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="section-title">
+            <h3 class="wow zoomIn" data-wow-delay=".2s">User Reviews</h3>
+            <h2 class="wow fadeInUp" data-wow-delay=".4s">
+              Our Testimonials
+            </h2>
+            <p class="wow fadeInUp" data-wow-delay=".6s">
+              There are many variety of users across the country who seek
+              guidance from us and are happy about it.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="row testimonial-slider">
+        <div class="col-lg-6 col-12">
+          <div class="single-testimonial">
+            <div class="inner-content">
+              <div class="quote-icon">
+                <i class="lni lni-quotation"></i>
+              </div>
+              <div class="text">
+                <p>
+                  “A very useful [platform that I would like to recommend. It has helped me a lot”
+                </p>
+              </div>
+              <div class="author">
+                <img src="{{ url_for('static', path='assets/images/testimonial/testi-1.png')}}" alt="#" />
+                <h4 class="name">
+                  Somalia
+                  <span class="deg">IIT Aspirant</span>
+                </h4>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-12">
+          <div class="single-testimonial">
+            <div class="inner-content">
+              <div class="quote-icon">
+                <i class="lni lni-quotation"></i>
+              </div>
+              <div class="text">
+                <p>
+                  “A very unique and best platform which suggests you with the best pathway.”
+                </p>
+              </div>
+              <div class="author">
+                <img src="{{ url_for('static', path='assets/images/testimonial/testi-2.png')}}" alt="#" />
+                <h4 class="name">
+                  Selva Kumar
+                  <span class="deg">Medico</span>
+                </h4>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-12">
+          <div class="single-testimonial">
+            <div class="inner-content">
+              <div class="quote-icon">
+                <i class="lni lni-quotation"></i>
+              </div>
+              <div class="text">
+                <p>
+                  “Awesome user interface which is very interactive and easy to use.”
+                </p>
+              </div>
+              <div class="author">
+                <img src="{{ url_for('static', path='assets/images/testimonial/testi-3.png')}}" alt="#" />
+                <h4 class="name">
+                  Sangakaran
+                  <span class="deg">Graphics Designer</span>
+                </h4>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-12">
+          <div class="single-testimonial">
+            <div class="inner-content">
+              <div class="quote-icon">
+                <i class="lni lni-quotation"></i>
+              </div>
+              <div class="text">
+                <p>
+                  “An awesome website which has been helping me connect with one of the best mentors.”
+                </p>
+              </div>
+              <div class="author">
+                <img src="{{ url_for('static', path='assets/images/testimonial/testi-2.png')}}" alt="#" />
+                <h4 class="name">
+                  Krupakar
+                  <span class="deg">Web Developer</span>
+                </h4>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-12">
+          <div class="single-testimonial">
+            <div class="inner-content">
+              <div class="quote-icon">
+                <i class="lni lni-quotation"></i>
+              </div>
+              <div class="text">
+                <p>
+                  “Helped me a lot in finalizing my decisions regarding my career.”
+                </p>
+              </div>
+              <div class="author">
+                <img src="{{ url_for('static', path='assets/images/testimonial/testi-3.png')}}" alt="#" />
+                <h4 class="name">
+                  Venu Gopal
+                  <span class="deg">Commerce</span>
+                </h4>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="team section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="section-title">
+            <h3 class="wow zoomIn" data-wow-delay=".2s">Code Sketchers</h3>
+            <h2 class="wow fadeInUp" data-wow-delay=".4s">Meet Our Team</h2>
+            <p class="wow fadeInUp" data-wow-delay=".6s">
+              We're CSE Undergrads at VVCE, Mysuru. We're here to provide you
+              the best platform to explore about the vast domains around you
+              and help you choose the best one based on your interests ans
+              preferences
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-3 col-md-6 col-12 wow fadeInUp" data-wow-delay=".3s">
+          <div class="single-team">
+            <div class="team-image">
+              <img src="{{ url_for('static', path='assets/images/mam.jpeg')}}" alt="#" />
+            </div>
+            <div class="content">
+              <h4>
+                Usha CS
+                <span>Mentor</span>
+              </h4>
+              <ul class="social">
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-facebook-filled"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-instagram"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-twitter-original"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-linkedin-original"></i></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+  
+        <div class="col-lg-3 col-md-6 col-12 wow fadeInUp" data-wow-delay=".5s">
+          <div class="single-team">
+            <div class="team-image">
+              <img src="{{ url_for('static', path='assets/images/megha.jpeg')}}" alt="#" />
+            </div>
+            <div class="content">
+              <h4>
+                Megha HV
+                <span>Team Leader</span>
+              </h4>
+              <ul class="social">
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-facebook-filled"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-instagram"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-twitter-original"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-linkedin-original"></i></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 col-12 wow fadeInUp" data-wow-delay=".7s">
+          <div class="single-team">
+            <div class="team-image">
+              <img src="{{ url_for('static', path='assets/images/cherry.jpeg')}}" alt="#" />
+            </div>
+            <div class="content">
+              <h4>
+                Charishma CJ
+                <span>Designer</span>
+              </h4>
+              <ul class="social">
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-facebook-filled"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-instagram"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-twitter-original"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-linkedin-original"></i></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 col-12 wow fadeInUp" data-wow-delay=".9s">
+          <div class="single-team">
+            <div class="team-image">
+              <img src="{{ url_for('static', path='assets/images/rifah.jpeg')}}" alt="#" />
+            </div>
+            <div class="content">
+              <h4>
+                Rifah A Khan
+                <span>Web Developer</span>
+              </h4>
+              <ul class="social">
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-facebook-filled"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-instagram"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-twitter-original"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-linkedin-original"></i></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+  
+        <!-- additional  -->
+  
+        <div class="col-lg-3 col-md-6 col-12 wow fadeInUp" data-wow-delay=".5s">
+          <div class="single-team">
+            <div class="team-image">
+              <img src="{{ url_for('static', path='assets/images/althamash.jpeg')}}" alt="#" />
+            </div>
+            <div class="content">
+              <h4>
+                Althamash
+                <span>Backend Developer</span>
+              </h4>
+              <ul class="social">
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-facebook-filled"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-instagram"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-twitter-original"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-linkedin-original"></i></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+  
+        <div class="col-lg-3 col-md-6 col-12 wow fadeInUp" data-wow-delay=".5s">
+          <div class="single-team">
+            <div class="team-image">
+              <img src="{{ url_for('static', path='assets/images/nishanth.jpeg')}}" alt="#" />
+            </div>
+            <div class="content">
+              <h4>
+                Nishanth
+                <span>Backend Developer</span>
+              </h4>
+              <ul class="social">
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-facebook-filled"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-instagram"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-twitter-original"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-linkedin-original"></i></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+  
+        <div class="col-lg-3 col-md-6 col-12 wow fadeInUp" data-wow-delay=".5s">
+          <div class="single-team">
+            <div class="team-image">
+              <img src="{{ url_for('static', path='assets/images/kunal.jpeg')}}" alt="#" />
+            </div>
+            <div class="content">
+              <h4>
+                Kunal
+                <span>Designer</span>
+              </h4>
+              <ul class="social">
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-facebook-filled"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-instagram"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-twitter-original"></i></a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)"><i class="lni lni-linkedin-original"></i></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+  
+        <!-- end additional -->
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer section">
+    <div class="footer-top">
+      <div class="container">
+        <div class="inner-content">
+          <div class="row">
+            <div class="col-lg-4 col-md-6 col-12">
+              <div class="single-footer f-about">
+                <div class="logo">
+                  <a href="index.html">
+                    <img src="{{ url_for('static', path='assets/images/logo/logo.jpeg')}}" alt="#" />
+                  </a>
+                </div>
+                <p>
+                  Making the world a better place through constructing elegant
+                  hierarchies.
+                </p>
+                <h4 class="social-title">Follow Us On:</h4>
+                <ul class="social">
+                  <li>
+                    <a href="javascript:void(0)"><i class="lni lni-facebook-filled"></i></a>
+                  </li>
+                  <li>
+                    <a href="javascript:void(0)"><i class="lni lni-twitter-original"></i></a>
+                  </li>
+                  <li>
+                    <a href="javascript:void(0)"><i class="lni lni-linkedin-original"></i></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-lg-2 col-md-6 col-12">
+              <div class="single-footer f-link">
+                <h3>Solutions We Provide</h3>
+                <ul>
+                  <li><a href="javascript:void(0)">Rank Prediction</a></li>
+                  <li><a href="javascript:void(0)">College Suggestion</a></li>
+                  <li><a href="javascript:void(0)">Mentor Connection</a></li>
+                  <li><a href="javascript:void(0)">Roadmap Insights</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-lg-2 col-md-6 col-12">
+              <div class="single-footer f-link">
+                <h3>Support</h3>
+                <ul>
+                  <li><a href="javascript:void(0)">Suggest Courses</a></li>
+                  <li><a href="javascript:void(0)">Suggest for Exams</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="copyright-area">
+      <div class="container">
+        <div class="inner-content">
+          <div class="row">
+            <div class="col-lg-6 col-md-6 col-12">
+              <p class="copyright-text">
+                © 2022 CodeSketchers - All Rights Reserved
+              </p>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+              <p class="copyright-owner">
+                Designed and Developed by
+                <a href="https://vvce.ac.in/" rel="nofollow" target="_blank">CodeSketchers</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+
+  <a href="#" class="scroll-top">
+    <i class="lni lni-chevron-up"></i>
+  </a>
+
+  <script src="{{ url_for('static', path='assets/js/bootstrap.min.js')}}"></script>
+  <script src="{{ url_for('static', path='assets/js/wow.min.js')}}"></script>
+  <script src="{{ url_for('static', path='assets/js/tiny-slider.js')}}"></script>
+  <script src="{{ url_for('static', path='assets/js/glightbox.min.js')}}"></script>
+  <script src="{{ url_for('static', path='assets/js/count-up.min.js')}}"></script>
+  <script src="{{ url_for('static', path='assets/js/main.js')}}"></script>
+  <script>
+    //========= testimonial
+    tns({
+      container: ".testimonial-slider",
+      items: 3,
+      slideBy: "page",
+      autoplay: false,
+      mouseDrag: true,
+      gutter: 0,
+      nav: true,
+      controls: false,
+      responsive: {
+        0: {
+          items: 1,
+        },
+        540: {
+          items: 1,
+        },
+        768: {
+          items: 2,
+        },
+        992: {
+          items: 2,
+        },
+        1170: {
+          items: 3,
+        },
+      },
+    });
+
+    //====== counter up
+    var cu = new counterUp({
+      start: 0,
+      duration: 2000,
+      intvalues: true,
+      interval: 100,
+      append: " ",
+    });
+    cu.start();
+  </script>
+</body>
+
+</html>

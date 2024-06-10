@@ -1,0 +1,396 @@
+Highest Qualification,Current qualification,Which is/was your strongest field?,How good is your communication skills?,Number of working/studying hours per day,Self-learning capability,Memory capability,Which one are you good at?,Which one of these options would describe you?,Which one do you prefer?,Undergoing peer pressure?,Did you land into your current position by choice or by chance?,Do you feel stressed?,Happiness Index
+Post-graduate,Pure Science,Science,Moderate,5,Moderate,Moderate,Theoretical Oriented,Smart worker,Working in a team,No,Choice,Yes,3
+Post-graduate,Pure Science,Science,Moderate,3,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,5
+Undergraduate,Pure Science,Science,Moderate,8,Moderate,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Pure Science,Science,Poor,4,Moderate,Moderate,Practical Oriented,Hard worker,Working solo,Yes,Choice,Yes,3
+Undergraduate,Doctor,Science,Moderate,2,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,Yes,Choice,No,4
+Undergraduate,Doctor,Science,Excellent,3,Moderate,Moderate,Theoretical Oriented,Hard worker,Working solo,Yes,Choice,No,4
+Class 12,Doctor,Science,Moderate,1,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,Yes;No,4
+Undergraduate,Doctor,Science,Moderate,4,Moderate,Poor,Theoretical Oriented,Smart worker,Working in a team,No,Chance,Yes,5
+Class 12,Doctor,Science,Moderate,3,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,3
+Undergraduate,Doctor,Science,Moderate,6,Moderate,Moderate,Theoretical Oriented,Smart worker,Working solo,No,Choice,No,4
+Undergraduate,Doctor,Science,Moderate,6,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,4
+Post-graduate,Doctor,Science,Moderate,3,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Undergraduate,Doctor,Science,Moderate,5,Moderate,Moderate,Theoretical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Doctor,Science,Moderate,7,Excellent,Excellent,Theoretical Oriented,Smart worker,Working solo,No,Chance,Yes,4
+Undergraduate,Doctor,Science,Moderate,7,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,No,Chance,Yes,4
+Undergraduate,Doctor,Science,Moderate,2,Moderate,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Class 12,Doctor,Science,Moderate,3,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,Yes,Choice,No,4
+Post-graduate,Doctor,Science,Moderate,2,Moderate,Moderate,Theoretical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Doctor,Science,Moderate,6,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Chance,Yes,3
+Undergraduate,Doctor,Science,Moderate,7,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,Yes,Choice,Yes,3
+Class 12,Doctor,Science,Moderate,8,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,Yes,Choice,Yes,3
+Post-graduate,Doctor,Science,Excellent,4,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,Yes,Choice,Yes,2
+Class 1-9,Doctor,Science,Excellent,3,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,No,Choice,No,5
+Class 12,Doctor,Science,Excellent,8,Excellent,Excellent,Theoretical Oriented,Hard worker,Working solo,No,Choice,No,4
+Undergraduate,Doctor,Science,Moderate,3,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,Yes,Choice,Yes,4
+Undergraduate,Doctor,Science,Moderate,5,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Choice,No,5
+Class 12,Doctor,Science,Excellent,6,Excellent,Excellent,Theoretical Oriented,Smart worker,Working solo,No,Choice,No,5
+Post-graduate,Arts,Science,Moderate,8,Moderate,Moderate,Theoretical Oriented,Smart worker,Working in a team,No,Choice,Yes,3
+Post-graduate,Arts,Science,Moderate,6,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,No,Choice,No,5
+Post-graduate,Arts,Science,Moderate,10,Moderate,Moderate,Practical Oriented,Hard worker,Working solo,Yes,Choice,Yes,4
+Undergraduate,Engineer,Science,Excellent,2,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Chance,Yes,3
+Undergraduate,Engineer,Science,Moderate,5,Excellent,Moderate,Practical Oriented,Hard worker,Working in a team,No,Choice,Yes,3
+Undergraduate,Engineer,Science,Moderate,10,Excellent,Excellent,Theoretical Oriented,Hard worker;Smart worker,Working solo,Yes,Choice,Yes,4
+Class 12,Engineer,Science,Moderate,3,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,Yes,4
+Undergraduate,Engineer,Science,Moderate,2,Moderate,Excellent,Theoretical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,7,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,5,Excellent,Excellent,Practical Oriented,Hard worker,Working in a team,No,Choice,Yes,3
+Class 12,Engineer,Science,Excellent,3,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,4
+Undergraduate,Engineer,Science,Moderate,4,Excellent,Moderate,Theoretical Oriented,Hard worker;Smart worker,Working in a team,No,Chance,No,5
+Undergraduate,Engineer,Science,Moderate,5,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Choice,No,4
+Undergraduate,Engineer,Science,Moderate,5,Excellent,Moderate,Practical Oriented,Hard worker,Working solo,Yes,Choice,Yes,2
+Undergraduate,Engineer,Science,Moderate,1,Poor,Moderate,Theoretical Oriented,Smart worker,Working in a team,No,Chance,No,5
+Undergraduate,Engineer,Science,Excellent,9,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,Yes,Choice,Yes,4
+Undergraduate,Engineer,Science,Moderate,5,Excellent,Moderate,Practical Oriented,Hard worker;Smart worker,Working solo,Yes,Chance,No,4
+Undergraduate,Engineer,Science,Moderate,3,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes;No,4
+Undergraduate,Engineer,Science,Moderate,2,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Class 12,Engineer,Science,Moderate,2,Moderate,Moderate,Theoretical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Class 12,Engineer,Science,Excellent,3,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,5
+Undergraduate,Engineer,Science,Moderate,8,Excellent,Excellent,Theoretical Oriented,Hard worker;Smart worker,Working solo,No,Choice,Yes,3
+Undergraduate,Engineer,Science,Excellent,2,Excellent,Excellent,Theoretical Oriented,Hard worker,Working in a team,Yes,Choice,No,4
+Undergraduate,Engineer,Science,Excellent,3,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,2,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Science,Moderate,1,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,Yes,Choice,Yes,3
+Undergraduate,Engineer,Science,Moderate,6,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,3,Moderate,Poor,Practical Oriented,Hard worker;Smart worker,Working solo,Yes,Choice,Yes,4
+Undergraduate,Engineer,Science,Moderate,6,Moderate,Moderate,Theoretical Oriented,Hard worker,Working in a team,No,Choice,Yes,4
+Undergraduate,Engineer,Science,Moderate,1,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,4,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Chance,No,5
+Undergraduate,Engineer,Science,Moderate,4,Moderate,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Science,Moderate,7,Excellent,Excellent,Practical Oriented,Hard worker,Working in a team,No,Chance,No,4
+Undergraduate,Engineer,Science,Excellent,2,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Science,Moderate,4,Excellent,Excellent,Practical Oriented,Hard worker,Working solo,No,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,2,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Class 12,Engineer,Science,Moderate,3,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,4
+Undergraduate,Engineer,Science,Moderate,4,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,3,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,1
+Undergraduate,Engineer,Science,Moderate,1,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,4
+Class 12,Engineer,Science,Moderate,5,Excellent,Moderate,Practical Oriented,Hard worker;Smart worker,Working in a team,Yes;No,Chance,Yes,3
+Class 12,Engineer,Science,Moderate,8,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,3,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,5
+Class 12,Engineer,Science,Excellent,5,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Science,Excellent,4,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Class 12,Engineer,Science,Moderate,2,Moderate,Moderate,Practical Oriented,Hard worker;Smart worker,Working in a team,No,Choice,No,3
+Undergraduate,Engineer,Science,Excellent,5,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,Yes,3
+Undergraduate,Engineer,Science,Moderate,3,Moderate,Moderate,Practical Oriented,Hard worker,Working solo,Yes,Chance,Yes,3
+Class 12,Engineer,Science,Moderate,5,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Class 12,Engineer,Science,Moderate,3,Moderate,Moderate,Theoretical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,3
+Class 12,Engineer,Science,Moderate,1,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,3
+Undergraduate,Engineer,Science,Moderate,3,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,3
+Undergraduate,Engineer,Science,Moderate,7,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,Yes,Choice,Yes,4
+Undergraduate,Engineer,Science,Moderate,4,Moderate,Excellent,Practical Oriented,Hard worker,Working in a team,No,Choice,Yes,3
+Post-graduate,Engineer,Science,Moderate,2,Excellent,Moderate,Theoretical Oriented,Hard worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,2,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,Yes,Chance,Yes,3
+Undergraduate,Engineer,Science,Excellent,4,Excellent,Excellent,Theoretical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,3,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Chance,No,4
+Class 12,Engineer,Science,Moderate,6,Excellent,Moderate,Theoretical Oriented,Hard worker,Working in a team,Yes,Choice,Yes,3
+Class 12,Engineer,Science,Excellent,2,Moderate,Moderate,Theoretical Oriented,Hard worker,Working in a team,Yes,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,3,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Chance,No,4
+Class 12,Engineer,Science,Moderate,3,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,3
+Undergraduate,Engineer,Science,Moderate,1,Moderate,Excellent,Practical Oriented,Smart worker,Working solo,No,Choice,No,3
+Class 12,Engineer,Science,Moderate,8,Moderate,Moderate,Theoretical Oriented,Hard worker,Working solo,No,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,2,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Chance,Yes,3
+Undergraduate,Engineer,Science,Moderate,2,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,4
+Undergraduate,Engineer,Science,Moderate,2,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,2
+Post-graduate,Engineer,Science,Poor,5,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,No,Chance,No,2
+Undergraduate,Engineer,Science,Moderate,3,Moderate,Moderate,Practical Oriented,Hard worker,Working solo,Yes,Choice,Yes,3
+Class 12,Engineer,Science,Excellent,2,Moderate,Moderate,Practical Oriented,Hard worker,Working solo,Yes,Chance,Yes,2
+Undergraduate,Engineer,Science,Moderate,7,Moderate,Moderate,Practical Oriented,Hard worker,Working solo,No,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,7,Moderate,Moderate,Theoretical Oriented,Hard worker,Working in a team,No,Choice,Yes,3
+Undergraduate,Engineer,Science,Moderate,3,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,1
+Undergraduate,Engineer,Science,Moderate,1,Moderate,Moderate,Theoretical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,3
+Undergraduate,Engineer,Science,Moderate,2,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Class 12,Engineer,Science,Moderate,5,Excellent,Excellent,Theoretical Oriented,Hard worker,Working solo,Yes,Choice,Yes,4
+Class 12,Engineer,Science,Excellent,1,Excellent,Excellent,Practical Oriented,Hard worker;Smart worker,Working solo,Yes,Choice,Yes,3
+Class 12,Engineer,Science,Moderate,1,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,No,Choice,Yes,4
+Undergraduate,Engineer,Science,Moderate,5,Moderate,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Class 12,Engineer,Science,Moderate,3,Moderate,Poor,Practical Oriented,Smart worker,Working in a team,No,Chance,Yes,1
+Undergraduate,Engineer,Science,Excellent,3,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,3
+Undergraduate,Engineer,Science,Moderate,4,Excellent,Moderate,Practical Oriented,Hard worker;Smart worker,Working in a team,No,Choice,Yes,4
+Class 12,Engineer,Science,Moderate,1,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Chance,No,4
+Undergraduate,Engineer,Science,Excellent,6,Excellent,Moderate,Theoretical Oriented,Hard worker,Working solo,Yes,Chance,Yes,4
+Post-graduate,Engineer,Science,Moderate,4,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,6,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,3
+Class 12,Engineer,Science,Moderate,3,Excellent,Excellent,Theoretical Oriented,Smart worker,Working solo,No,Chance,No,5
+Class 12,Engineer,Science,Moderate,2,Moderate,Moderate,Practical Oriented,Hard worker;Smart worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Science,Excellent,2,Excellent,Excellent,Theoretical Oriented,Smart worker,Working solo,Yes;No,Choice,No,3
+Undergraduate,Engineer,Science,Moderate,3,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,3
+Undergraduate,Engineer,Science,Moderate,5,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,No,Choice,Yes,2
+Undergraduate,Engineer,Science,Excellent,6,Excellent,Moderate,Practical Oriented,Hard worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Science,Excellent,2,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,Yes;No,Choice,No,5
+Class 12,Engineer,Science,Moderate,6,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Science,Poor,1,Moderate,Moderate,Theoretical Oriented,Smart worker,Working in a team,No,Chance,Yes,4
+Class 12,Engineer,Science,Moderate,3,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,4
+Class 12,Engineer,Science,Excellent,8,Moderate,Excellent,Practical Oriented,Hard worker;Smart worker,Working in a team,No,Chance,Yes,4
+Undergraduate,Engineer,Science,Moderate,3,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,No,Choice,No,4
+Undergraduate,Engineer,Science,Moderate,5,Excellent,Excellent,Practical Oriented,Hard worker;Smart worker,Working solo,No,Choice,No,4
+Class 12,Engineer,Science,Excellent,5,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,No,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,6,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,2,Moderate,Excellent,Practical Oriented,Smart worker,Working in a team,No,Chance,No,3
+Undergraduate,Engineer,Science,Moderate,2,Moderate,Poor,Practical Oriented,Hard worker,Working in a team,No,Choice,No,3
+Undergraduate,Engineer,Science,Excellent,2,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,2
+Undergraduate,Engineer,Science,Moderate,3,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,3
+Class 12,Engineer,Science,Excellent,2,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,No,Chance,Yes,4
+Undergraduate,Engineer,Science,Excellent,6,Excellent,Moderate,Practical Oriented,Hard worker;Smart worker,Working in a team,No,Choice,Yes,4
+Class 12,Engineer,Science,Moderate,1,Excellent,Poor,Practical Oriented,Hard worker,Working solo,No,Choice,Yes,3
+Class 12,Engineer,Science,Moderate,2,Excellent,Excellent,Theoretical Oriented,Smart worker,Working solo,No,Chance,Yes,3
+Undergraduate,Engineer,Science,Moderate,4,Excellent,Excellent,Theoretical Oriented,Smart worker,Working solo,No,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,3,Moderate,Moderate,Theoretical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,8,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,2
+Class 12,Engineer,Science,Excellent,4,Excellent,Excellent,Practical Oriented,Hard worker;Smart worker,Working in a team,No,Chance,No,5
+Class 12,Engineer,Science,Moderate,5,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,Yes,Choice,Yes,3
+Class 12,Engineer,Science,Moderate,6,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Science,Excellent,7,Moderate,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,4
+Undergraduate,Engineer,Science,Moderate,3,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,3
+Undergraduate,Engineer,Science,Excellent,3,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,No,Choice,Yes,5
+Undergraduate,Engineer,Science,Excellent,4,Moderate,Excellent,Practical Oriented,Hard worker,Working in a team,No,Choice,Yes,3
+Undergraduate,Engineer,Science,Moderate,3,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,No,Chance,No,4
+Undergraduate,Engineer,Science,Moderate,3,Moderate,Moderate,Theoretical Oriented,Smart worker,Working solo,Yes,Chance,Yes,4
+Undergraduate,Engineer,Science,Moderate,6,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,3
+Undergraduate,Engineer,Science,Moderate,3,Moderate,Moderate,Practical Oriented,Hard worker,Working solo,Yes,Chance,Yes,2
+Undergraduate,Engineer,Science,Moderate,4,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Chance,No,1
+Undergraduate,Engineer,Science,Moderate,5,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,Yes,Chance,No,5
+Class 12,Engineer,Science,Moderate,4,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Class 12,Engineer,Science,Excellent,7,Excellent,Moderate,Theoretical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,4
+Undergraduate,Engineer,Science,Excellent,2,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,Yes,Choice,No,4
+Post-graduate,Engineer,Science,Moderate,6,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,3
+Class 12,Engineer,Science,Moderate,3,Moderate,Moderate,Practical Oriented,Hard worker,Working solo,No,Choice,No,4
+Undergraduate,Engineer,Science,Moderate,7,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,3
+Undergraduate,Engineer,Science,Excellent,1,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,4
+Undergraduate,Engineer,Science,Moderate,5,Excellent,Moderate,Theoretical Oriented,Hard worker,Working in a team,No,Chance,No,5
+Undergraduate,Engineer,Science,Moderate,6,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Science,Moderate,4,Moderate,Moderate,Practical Oriented,Hard worker,Working solo,Yes,Chance,Yes,3
+Undergraduate,Engineer,Science,Moderate,7,Moderate,Moderate,Theoretical Oriented,Hard worker,Working in a team,Yes,Choice,Yes,3
+Undergraduate,Engineer,Science,Moderate,6,Moderate,Moderate,Practical Oriented,Hard worker,Working solo,No,Chance,Yes,3
+Undergraduate,Engineer,Science,Moderate,7,Moderate,Poor,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,2
+Undergraduate,Engineer,Science,Moderate,2,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,4
+Undergraduate,Engineer,Science,Excellent,5,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Science,Excellent,2,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,4
+Class 12,Engineer,Science,Excellent,7,Excellent,Excellent,Theoretical Oriented,Smart worker,Working in a team,No,Choice,Yes,4
+Undergraduate,Engineer,Science,Excellent,2,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,No,Choice,No,4
+Class 1-9,Engineer,Science,Moderate,3,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,3
+Undergraduate,Engineer,Science,Moderate,3,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,3
+Class 12,Engineer,Science,Moderate,3,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,4
+Undergraduate,Engineer,Science,Moderate,6,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,3
+Class 12,Engineer,Science,Moderate,5,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,Yes,Choice,Yes,3
+Class 12,Engineer,Science,Moderate,4,Moderate,Excellent,Practical Oriented,Hard worker,Working solo,No,Chance,No,4
+Undergraduate,Engineer,Science,Moderate,2,Moderate,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Science,Poor,3,Moderate,Moderate,Theoretical Oriented,Smart worker,Working solo,Yes,Chance,No,3
+Undergraduate,Engineer,Science,Moderate,4,Excellent,Moderate,Theoretical Oriented,Hard worker,Working in a team,No,Choice,Yes,3
+Class 12,Engineer,Science,Moderate,1,Moderate,Moderate,Theoretical Oriented,Smart worker,Working in a team,No,Choice,Yes,3
+Undergraduate,Engineer,Science,Excellent,5,Excellent,Excellent,Theoretical Oriented,Smart worker,Working in a team,No,Choice,No,3
+Undergraduate,Engineer,Science,Excellent,8,Excellent,Moderate,Practical Oriented,Hard worker,Working solo,Yes,Choice,Yes,3
+Undergraduate,Engineer,Science,Moderate,2,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Chance,No,4
+Undergraduate,Engineer,Science,Excellent,3,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Science,Moderate,1,Moderate,Poor,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes;No,5
+Post-graduate,Engineer,Science,Excellent,1,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Science,Poor,8,Excellent,Poor,Practical Oriented,Smart worker,Working in a team,No,Chance,Yes,1
+Class 12,Engineer,Science,Excellent,2,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Science,Excellent,2,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Science,Moderate,2,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,4
+Undergraduate,Engineer,Science,Poor,1,Excellent,Excellent,Practical Oriented,Hard worker,Working in a team,Yes,Choice,No,1
+Undergraduate,Engineer,Science,Excellent,3,Excellent,Moderate,Practical Oriented,Hard worker,Working in a team,Yes,Chance,Yes,3
+Post-graduate,Engineer,Science,Excellent,2,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Chance,No,5
+Undergraduate,Engineer,Science,Moderate,3,Excellent,Excellent,Theoretical Oriented,Smart worker,Working in a team,No,Chance,No,5
+Undergraduate,Engineer,Science,Moderate,4,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,No,Choice,No,3
+Undergraduate,Engineer,Science,Excellent,7,Excellent,Excellent,Practical Oriented,Hard worker,Working solo,Yes,Chance,Yes,2
+Undergraduate,Engineer,Science,Moderate,5,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,No,Choice,No,5
+Class 12,Engineer,Science,Moderate,3,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Class 12,Engineer,Science,Excellent,2,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Chance,No,5
+Undergraduate,Engineer,Science,Moderate,4,Moderate,Moderate,Theoretical Oriented,Hard worker,Working solo,No,Choice,No,3
+Undergraduate,Engineer,Science,Moderate,2,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,3
+Undergraduate,Doctor,Mathematics,Moderate,1,Excellent,Moderate,Theoretical Oriented,Smart worker,Working solo,Yes,Choice,Yes,1
+Class 12,Doctor,Mathematics,Excellent,1,Excellent,Excellent,Practical Oriented,Hard worker;Smart worker,Working in a team,No,Choice,No,4
+Class 12,Doctor,Mathematics,Excellent,3,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,4
+Class 10,Doctor,Mathematics,Excellent,5,Excellent,Excellent,Theoretical Oriented,Hard worker,Working in a team,No,Choice,No,3
+Class 12,Doctor,Mathematics,Moderate,5,Moderate,Moderate,Practical Oriented,Hard worker,Working solo,No,Choice,No,3
+Undergraduate,Administration,Mathematics,Excellent,8,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,Yes,Chance,No,3
+Post-graduate,Arts,Mathematics,Moderate,10,Excellent,Moderate,Theoretical Oriented,Hard worker;Smart worker,Working in a team,No,Choice,No,4
+Class 12,Engineer,Mathematics,Excellent,7,Excellent,Moderate,Practical Oriented,Hard worker;Smart worker,Working solo,No,Choice,No,5
+Class 12,Engineer,Mathematics,Moderate,9,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Excellent,1,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,Yes,Chance,Yes,2
+Class 12,Engineer,Mathematics,Excellent,7,Excellent,Excellent,Practical Oriented,Hard worker;Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Excellent,10,Excellent,Excellent,Practical Oriented,Hard worker;Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Excellent,7,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,2
+Class 12,Engineer,Mathematics,Moderate,9,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,3
+Class 12,Engineer,Mathematics,Excellent,4,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Class 12,Engineer,Mathematics,Moderate,2,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,Yes,Choice,Yes,3
+Undergraduate,Engineer,Mathematics,Excellent,4,Excellent,Excellent,Practical Oriented,Hard worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,5,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,Yes,Choice,No,4
+Class 12,Engineer,Mathematics,Moderate,6,Moderate,Moderate,Practical Oriented,Hard worker;Smart worker,Working in a team,Yes,Choice,Yes,4
+Undergraduate,Engineer,Mathematics,Excellent,3,Excellent,Moderate,Theoretical Oriented,Smart worker,Working solo,No,Choice,No,4
+Class 12,Engineer,Mathematics,Excellent,5,Excellent,Moderate,Practical Oriented,Hard worker,Working in a team,Yes,Chance,Yes,4
+Undergraduate,Engineer,Mathematics,Moderate,9,Excellent,Excellent,Practical Oriented,Hard worker;Smart worker,Working in a team,No,Chance,Yes;No,5
+Undergraduate,Engineer,Mathematics,Moderate,3,Moderate,Moderate,Theoretical Oriented,Hard worker;Smart worker,Working solo,Yes,Choice,Yes,3
+Undergraduate,Engineer,Mathematics,Moderate,10,Moderate,Excellent,Practical Oriented,Hard worker;Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,4,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,Yes,Choice,Yes,3
+Undergraduate,Engineer,Mathematics,Moderate,3,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,4,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,4,Moderate,Excellent,Practical Oriented,Hard worker,Working solo,Yes,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,8,Excellent,Excellent,Theoretical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,8,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Moderate,4,Moderate,Moderate,Theoretical Oriented,Hard worker,Working solo,Yes;No,Choice,Yes,3
+Class 12,Engineer,Mathematics,Excellent,3,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Chance,No,5
+Undergraduate,Engineer,Mathematics,Moderate,4,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Moderate,7,Moderate,Moderate,Theoretical Oriented,Hard worker,Working in a team,No,Choice,No,3
+Undergraduate,Engineer,Mathematics,Moderate,3,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Moderate,8,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Moderate,5,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Moderate,8,Excellent,Moderate,Practical Oriented,Hard worker,Working solo,Yes;No,Chance,Yes,1
+Undergraduate,Engineer,Mathematics,Moderate,4,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,Yes,Choice,No,4
+Undergraduate,Engineer,Mathematics,Excellent,2,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Moderate,5,Moderate,Moderate,Theoretical Oriented,Hard worker,Working in a team,No,Choice,No,5
+Post-graduate,Engineer,Mathematics,Moderate,1,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,No,Chance,No,4
+Undergraduate,Engineer,Mathematics,Moderate,1,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Chance,Yes,3
+Undergraduate,Engineer,Mathematics,Moderate,3,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,4
+Post-graduate,Engineer,Mathematics,Moderate,5,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Chance,No,5
+Undergraduate,Engineer,Mathematics,Moderate,6,Excellent,Moderate,Practical Oriented,Hard worker;Smart worker,Working in a team,No,Choice,No,5
+Class 12,Engineer,Mathematics,Excellent,5,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,2
+Undergraduate,Engineer,Mathematics,Excellent,5,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,Yes,Chance,Yes,4
+Undergraduate,Engineer,Mathematics,Moderate,4,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,Yes,Chance,Yes,1
+Undergraduate,Engineer,Mathematics,Excellent,1,Moderate,Excellent,Practical Oriented,Smart worker,Working solo,No,Chance,No,5
+Class 12,Engineer,Mathematics,Moderate,4,Moderate,Excellent,Theoretical Oriented,Hard worker;Smart worker,Working solo,No,Choice,Yes;No,3
+Class 12,Engineer,Mathematics,Excellent,2,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Chance,Yes,1
+Class 12,Engineer,Mathematics,Moderate,4,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,3,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,Yes,Chance,Yes,2
+Undergraduate,Engineer,Mathematics,Moderate,3,Excellent,Excellent,Theoretical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Class 12,Engineer,Mathematics,Moderate,4,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,No,Chance,No,4
+Class 12,Engineer,Mathematics,Moderate,3,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,3,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,4
+Undergraduate,Engineer,Mathematics,Moderate,2,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Moderate,3,Moderate,Moderate,Theoretical Oriented,Hard worker,Working in a team,No,Choice,Yes,3
+Undergraduate,Engineer,Mathematics,Moderate,8,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,Yes,4
+Undergraduate,Engineer,Mathematics,Moderate,2,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,No,Choice,No,3
+Undergraduate,Engineer,Mathematics,Moderate,4,Moderate,Moderate,Practical Oriented,Hard worker;Smart worker,Working solo,Yes;No,Chance,Yes;No,3
+Undergraduate,Engineer,Mathematics,Moderate,5,Moderate,Excellent,Theoretical Oriented,Smart worker,Working in a team,No,Choice,Yes,3
+Undergraduate,Engineer,Mathematics,Moderate,3,Excellent,Excellent,Practical Oriented,Hard worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Moderate,8,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Chance,Yes,4
+Undergraduate,Engineer,Mathematics,Excellent,1,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Moderate,6,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,3
+Class 12,Engineer,Mathematics,Excellent,3,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,4
+Class 12,Engineer,Mathematics,Excellent,6,Excellent,Excellent,Theoretical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Class 12,Engineer,Mathematics,Excellent,8,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,Yes,Chance,Yes,1
+Class 12,Engineer,Mathematics,Moderate,3,Moderate,Excellent,Theoretical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,4
+Post-graduate,Engineer,Mathematics,Moderate,5,Excellent,Moderate,Theoretical Oriented,Hard worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Moderate,1,Moderate,Moderate,Practical Oriented,Hard worker;Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,4,Excellent,Moderate,Practical Oriented,Hard worker,Working in a team,Yes,Choice,Yes,4
+Undergraduate,Engineer,Mathematics,Moderate,3,Excellent,Moderate,Practical Oriented,Hard worker,Working in a team,Yes,Choice,Yes,4
+Undergraduate,Engineer,Mathematics,Moderate,8,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Chance,Yes,5
+Undergraduate,Engineer,Mathematics,Excellent,6,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,4
+Undergraduate,Engineer,Mathematics,Excellent,3,Excellent,Moderate,Theoretical Oriented,Hard worker;Smart worker,Working solo,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Excellent,3,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Moderate,5,Moderate,Moderate,Practical Oriented,Hard worker,Working solo,Yes,Choice,Yes,3
+Class 12,Engineer,Mathematics,Moderate,8,Moderate,Moderate,Theoretical Oriented,Smart worker,Working solo,No,Choice,No,4
+Class 12,Engineer,Mathematics,Moderate,9,Excellent,Excellent,Practical Oriented,Hard worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Moderate,3,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Chance,No,5
+Undergraduate,Engineer,Mathematics,Moderate,8,Excellent,Moderate,Theoretical Oriented,Hard worker;Smart worker,Working in a team,No,Choice,Yes,4
+Undergraduate,Engineer,Mathematics,Moderate,6,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,6,Moderate,Moderate,Theoretical Oriented,Hard worker,Working in a team,No,Choice,Yes,3
+Undergraduate,Engineer,Mathematics,Moderate,1,Moderate,Moderate,Theoretical Oriented,Hard worker,Working solo,Yes,Choice,Yes,3
+Class 12,Engineer,Mathematics,Excellent,8,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,Yes,Chance,Yes,3
+Class 12,Engineer,Mathematics,Moderate,6,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,Yes,Choice,Yes,3
+Undergraduate,Engineer,Mathematics,Moderate,2,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Chance,Yes,4
+Class 12,Engineer,Mathematics,Moderate,4,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,Yes,5
+Undergraduate,Engineer,Mathematics,Moderate,5,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Excellent,3,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Excellent,3,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,Yes,Choice,Yes,3
+Undergraduate,Engineer,Mathematics,Excellent,4,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,7,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,3
+Undergraduate,Engineer,Mathematics,Excellent,2,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,Yes;No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,3,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Class 12,Engineer,Mathematics,Moderate,3,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Excellent,1,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Chance,No,5
+Undergraduate,Engineer,Mathematics,Excellent,6,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Class 12,Engineer,Mathematics,Excellent,2,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,Yes,Choice,Yes,4
+Undergraduate,Engineer,Mathematics,Poor,10,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,Yes,Choice,Yes,1
+Undergraduate,Engineer,Mathematics,Excellent,5,Moderate,Moderate,Practical Oriented,Hard worker,Working solo,No,Choice,No,5
+Class 12,Engineer,Mathematics,Moderate,8,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,4
+Undergraduate,Engineer,Mathematics,Moderate,3,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,No,Choice,Yes,4
+Class 12,Engineer,Mathematics,Moderate,8,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Moderate,3,Excellent,Excellent,Practical Oriented,Hard worker,Working solo,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Moderate,2,Excellent,Moderate,Practical Oriented,Hard worker;Smart worker,Working in a team,Yes,Choice,No,3
+Class 12,Engineer,Mathematics,Moderate,2,Excellent,Excellent,Theoretical Oriented,Hard worker;Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Excellent,6,Excellent,Excellent,Practical Oriented,Hard worker;Smart worker,Working in a team,No,Choice,Yes,4
+Undergraduate,Engineer,Mathematics,Moderate,2,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,4,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,3
+Undergraduate,Engineer,Mathematics,Excellent,3,Excellent,Moderate,Theoretical Oriented,Hard worker;Smart worker,Working in a team,Yes,Choice,No,3
+Undergraduate,Engineer,Mathematics,Moderate,4,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,3
+Undergraduate,Engineer,Mathematics,Moderate,2,Moderate,Moderate,Practical Oriented,Hard worker;Smart worker,Working in a team,No,Chance,No,4
+Undergraduate,Engineer,Mathematics,Moderate,3,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Chance,Yes,1
+Undergraduate,Engineer,Mathematics,Moderate,4,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,No,Choice,No,4
+Class 12,Engineer,Mathematics,Moderate,2,Excellent,Moderate,Practical Oriented,Hard worker;Smart worker,Working solo,No,Choice,Yes,4
+Class 12,Engineer,Mathematics,Moderate,1,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,1
+Class 12,Engineer,Mathematics,Moderate,2,Excellent,Excellent,Theoretical Oriented,Hard worker;Smart worker,Working solo,No,Choice,No,4
+Class 12,Engineer,Mathematics,Moderate,2,Moderate,Excellent,Practical Oriented,Hard worker;Smart worker,Working solo,Yes,Choice,Yes,3
+Undergraduate,Engineer,Mathematics,Excellent,2,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Chance,No,5
+Undergraduate,Engineer,Mathematics,Moderate,2,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Moderate,1,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,3
+Undergraduate,Engineer,Mathematics,Excellent,1,Moderate,Moderate,Theoretical Oriented,Hard worker,Working solo,Yes,Choice,Yes,4
+Undergraduate,Engineer,Mathematics,Excellent,5,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,No,Choice,Yes,3
+Undergraduate,Engineer,Mathematics,Moderate,5,Excellent,Excellent,Practical Oriented,Hard worker;Smart worker,Working solo,Yes,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,6,Moderate,Excellent,Practical Oriented,Hard worker,Working in a team,No,Choice,Yes;No,3
+Undergraduate,Engineer,Mathematics,Excellent,2,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Chance,No,3
+Class 12,Engineer,Mathematics,Excellent,8,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,Yes,Choice,No,4
+Class 12,Engineer,Mathematics,Moderate,4,Excellent,Moderate,Practical Oriented,Hard worker,Working solo,Yes,Chance,Yes,4
+Undergraduate,Engineer,Mathematics,Excellent,6,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,1,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,4,Excellent,Moderate,Theoretical Oriented,Hard worker,Working in a team,No,Choice,Yes,4
+Undergraduate,Engineer,Mathematics,Moderate,3,Moderate,Moderate,Theoretical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,5
+Undergraduate,Engineer,Mathematics,Moderate,3,Excellent,Excellent,Theoretical Oriented,Hard worker,Working in a team,Yes,Choice,No,3
+Class 12,Engineer,Mathematics,Moderate,4,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Chance,No,4
+Undergraduate,Engineer,Mathematics,Excellent,3,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Post-graduate,Engineer,Mathematics,Moderate,2,Excellent,Moderate,Theoretical Oriented,Hard worker,Working in a team,No,Choice,Yes,4
+Undergraduate,Engineer,Mathematics,Poor,3,Moderate,Moderate,Theoretical Oriented,Hard worker,Working in a team,Yes,Choice,No,5
+Class 12,Engineer,Mathematics,Moderate,2,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,4
+Undergraduate,Engineer,Mathematics,Moderate,6,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Moderate,6,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,4
+Undergraduate,Engineer,Mathematics,Moderate,2,Moderate,Moderate,Practical Oriented,Hard worker,Working solo,No,Choice,Yes,3
+Class 12,Engineer,Mathematics,Moderate,3,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,Yes,Chance,Yes,3
+Undergraduate,Engineer,Mathematics,Excellent,5,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,Yes,Chance,Yes,4
+Class 12,Engineer,Mathematics,Moderate,2,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Moderate,6,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,1,Moderate,Moderate,Practical Oriented,Hard worker,Working solo,Yes,Chance,Yes,1
+Class 12,Engineer,Mathematics,Moderate,2,Moderate,Moderate,Theoretical Oriented,Smart worker,Working solo,No,Choice,No,4
+Class 12,Engineer,Mathematics,Poor,3,Moderate,Moderate,Practical Oriented,Hard worker,Working solo,Yes,Chance,Yes,4
+Undergraduate,Engineer,Mathematics,Moderate,5,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Chance,No,4
+Undergraduate,Engineer,Mathematics,Excellent,6,Moderate,Excellent,Practical Oriented,Hard worker,Working solo,Yes,Choice,Yes,2
+Undergraduate,Engineer,Mathematics,Moderate,8,Excellent,Excellent,Theoretical Oriented,Hard worker,Working in a team,No,Choice,No,4
+Undergraduate,Engineer,Mathematics,Moderate,2,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,1,Excellent,Excellent,Theoretical Oriented,Smart worker,Working solo,Yes,Choice,Yes,3
+Class 12,Engineer,Mathematics,Moderate,6,Moderate,Excellent,Practical Oriented,Hard worker,Working solo,Yes,Choice,No,4
+Class 12,Engineer,Mathematics,Excellent,7,Excellent,Excellent,Practical Oriented,Hard worker,Working in a team,Yes,Choice,No,5
+Class 12,Engineer,Mathematics,Moderate,1,Poor,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,Yes,2
+Undergraduate,Engineer,Mathematics,Moderate,1,Excellent,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,5
+Undergraduate,Engineer,Mathematics,Moderate,9,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,Yes,4
+Class 12,Engineer,Mathematics,Moderate,3,Moderate,Excellent,Practical Oriented,Smart worker,Working in a team,Yes,Chance,Yes,2
+Undergraduate,Engineer,Mathematics,Moderate,3,Moderate,Moderate,Theoretical Oriented,Hard worker,Working in a team,No,Chance,No,5
+Undergraduate,Engineer,Mathematics,Moderate,8,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Choice,No,3
+Undergraduate,Engineer,Mathematics,Excellent,2,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,Yes,3
+Undergraduate,Engineer,Mathematics,Excellent,6,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,3
+Class 12,Engineer,Mathematics,Moderate,1,Moderate,Moderate,Theoretical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,1
+Undergraduate,Engineer,Mathematics,Moderate,1,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,Yes,Chance,Yes,3
+Undergraduate,Engineer,Mathematics,Moderate,10,Moderate,Poor,Theoretical Oriented,Hard worker,Working in a team,Yes,Choice,Yes,1
+Post-graduate,Engineer,Mathematics,Excellent,3,Poor,Excellent,Practical Oriented,Smart worker,Working solo,No,Choice,No,5
+Class 12,Engineer,Mathematics,Excellent,1,Moderate,Excellent,Theoretical Oriented,Smart worker,Working in a team,Yes,Chance,No,3
+Class 12,Engineer,Mathematics,Moderate,2,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,No,Choice,No,3
+Undergraduate,Doctor,Commerce,Moderate,2,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,2
+Undergraduate,Doctor,Commerce,Moderate,1,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Undergraduate,Doctor,Commerce,Moderate,3,Moderate,Moderate,Practical Oriented,Smart worker,Working solo,Yes,Choice,No,5
+Undergraduate,Administration,Commerce,Excellent,5,Moderate,Moderate,Practical Oriented,Hard worker;Smart worker,Working in a team,No,Chance,No,4
+Post-graduate,Administration,Commerce,Excellent,9,Excellent,Excellent,Theoretical Oriented,Smart worker,Working in a team,Yes,Choice,Yes,5
+Post-graduate,Administration,Commerce,Excellent,8,Excellent,Excellent,Theoretical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Administration,Commerce,Excellent,9,Moderate,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,4
+Post-graduate,Administration,Commerce,Moderate,8,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,No,Chance,Yes,4
+Post-graduate,Administration,Commerce,Moderate,2,Moderate,Moderate,Practical Oriented,Hard worker,Working solo,No,Choice,No,3
+Post-graduate,Administration,Commerce,Excellent,8,Excellent,Excellent,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Post-graduate,Arts,Commerce,Moderate,8,Moderate,Moderate,Practical Oriented,Hard worker,Working in a team,No,Choice,Yes,4
+Post-graduate,Arts,Commerce,Excellent,4,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,No,Choice,No,4
+Undergraduate,Engineer,Commerce,Excellent,6,Excellent,Moderate,Practical Oriented,Hard worker,Working in a team,No,Chance,No,4
+Post-graduate,Engineer,Commerce,Moderate,3,Moderate,Moderate,Theoretical Oriented,Smart worker,Working in a team,No,Chance,Yes,3
+Undergraduate,Engineer,Geography,Moderate,1,Moderate,Moderate,Practical Oriented,Smart worker,Working in a team,Yes,Choice,No,5
+Undergraduate,Engineer,Geography,Moderate,8,Excellent,Excellent,Practical Oriented,Smart worker,Working solo,Yes,Choice,Yes,2
+Class 12,Engineer,Geography,Moderate,5,Moderate,Excellent,Practical Oriented,Hard worker,Working solo,Yes,Choice,Yes,3
+Class 12,Engineer,Geography,Excellent,3,Excellent,Moderate,Practical Oriented,Smart worker,Working in a team,No,Choice,No,5
+Undergraduate,Engineer,Geography,Excellent,1,Excellent,Poor,Theoretical Oriented,Smart worker,Working in a team,No,Choice,Yes,1
+Undergraduate,Engineer,Geography,Excellent,2,Excellent,Excellent,Practical Oriented,Hard worker,Working in a team,No,Choice,Yes,3
